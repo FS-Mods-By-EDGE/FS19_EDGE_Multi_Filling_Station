@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="47">
     <author>EDGE Gaming / Castiga</author>
-    <version>2.8.0.0</version>
+    <version>3.0.0.0</version>
     <iconFilename>icon.png</iconFilename>
 	<title><!-- en=English de=German fr=French es=Spanish ru=Russian pl=Polish it=Italian br=Brazilian-Portuguese cs=Chinese(Simplified) ct=Chinese(Traditional) cz=Czech nl=Netherlands hu=Hungary jp=Japanese kr=Korean pt=Portuguese ro=Romanian tr=Turkish -->
         <en>Multi Filling Station</en>
@@ -30,7 +30,8 @@ Changelog 2.0.0.0:
 - Added warning stripes in load area.
 - Added Shaders & Alpha blending, also reflecting on desired areas.
 Changelog 2.5.0.0:
-- Updated to support Seasons mod.]]>
+- Updated to support Seasons mod better.
+Changelog 3.0.0.0:]]>
 		</en>
         <de>
 			<![CDATA[Multi Kaufstation. 10% Lieferkosten, 15% auf die Ernte.
