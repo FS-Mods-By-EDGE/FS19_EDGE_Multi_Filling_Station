@@ -3,7 +3,8 @@
     <author>EDGE Gaming / Castiga</author>
     <version>3.0.0.0</version>
     <iconFilename>icon.png</iconFilename>
-	<title><!-- en=English de=German fr=French es=Spanish ru=Russian pl=Polish it=Italian br=Brazilian-Portuguese cs=Chinese(Simplified) ct=Chinese(Traditional) cz=Czech nl=Netherlands hu=Hungary jp=Japanese kr=Korean pt=Portuguese ro=Romanian tr=Turkish -->
+    <title>
+        <!-- en=English de=German fr=French es=Spanish ru=Russian pl=Polish it=Italian br=Brazilian-Portuguese cs=Chinese(Simplified) ct=Chinese(Traditional) cz=Czech nl=Netherlands hu=Hungary jp=Japanese kr=Korean pt=Portuguese ro=Romanian tr=Turkish -->
         <en>Multi Filling Station</en>
         <de>Multi Kaufstation</de>
         <fr>Station De Remplissage Multiple</fr>
@@ -12,8 +13,7 @@
         <pl>Wielo Nadzienie Stacja</pl>
     </title>
     <description>
-        <en>
-			<![CDATA[Multi Filling station, Here you can buy anything you'd like.
+        <en><![CDATA[Multi Filling station, Here you can buy anything you'd like.
 The delivery people take 10%, and 15% on any crop harvest.
 
 Warning stripes can be turned on & off with a convenient button.
@@ -38,10 +38,8 @@ Changelog 2.5.0.0:
 Changelog 3.0.0.0:
 - Added button for warning stripes, these can now be turned off without using the UI.
 - Added support for some mod Filltypes.
-- Added support for MaizePlus.]]>
-		</en>
-        <de>
-			<![CDATA[Multi Kaufstation. 10% Lieferkosten, 15% auf die Ernte.
+- Added support for MaizePlus.]]></en>
+        <de><![CDATA[Multi Kaufstation. 10% Lieferkosten, 15% auf die Ernte.
 
 Warnstreifen können mit einer praktischen Taste ein- und ausgeschaltet werden.
 
@@ -65,10 +63,8 @@ Größe: 6x9.5 Meter
 Änderungsprotokoll 3.0.0.0:
 - Schaltfläche für Warnstreifen hinzugefügt, diese können jetzt ohne Verwendung der Benutzeroberfläche deaktiviert werden.
 - Unterstützung für einige Mod-Fülltypen hinzugefügt.
-- Unterstützung für MaizePlus hinzugefügt.]]>
-		</de>
-        <fr>
-			<![CDATA[Station de remplissage multiple, ici, vous pouvez acheter ce que vous voulez.
+- Unterstützung für MaizePlus hinzugefügt.]]></de>
+        <fr><![CDATA[Station de remplissage multiple, ici, vous pouvez acheter ce que vous voulez.
 Les livreurs prennent 10% et 15% de toute récolte.
 
 Les bandes d'avertissement peuvent être activées et désactivées avec un bouton pratique.
@@ -93,10 +89,8 @@ Changer le journal 2.5.0.0:
 Changer le journal 3.0.0.0:
 - Bouton ajouté pour les bandes d'avertissement, celles-ci peuvent maintenant être désactivées sans utiliser l'interface utilisateur.
 - Ajout de la prise en charge de certains mod Filltypes.
-- Ajout de la prise en charge de MaizePlus.]]>
-		</fr>
-        <es>
-			<![CDATA[Estación de llenado múltiple.
+- Ajout de la prise en charge de MaizePlus.]]></fr>
+        <es><![CDATA[Estación de llenado múltiple.
 Aquí puede comprar cualquier cosa que desee, la gente de entrega se lleva el 10% y el 15% de cualquier cosecha.
 
 Las franjas de advertencia se pueden activar y desactivar con un botón conveniente.
@@ -121,10 +115,8 @@ Registro de cambios 2.5.0.0:
 Registro de cambios 3.0.0.0:
 - Botón agregado para franjas de advertencia, ahora se pueden desactivar sin usar la interfaz de usuario.
 - Se agregó soporte para algunos tipos de relleno mod.
-- Se agregó soporte para MaizePlus.]]>
-        </es>
-        <ru>
-			<![CDATA[Мульти АЗС.
+- Se agregó soporte para MaizePlus.]]></es>
+        <ru><![CDATA[Мульти АЗС.
 Здесь вы можете купить все, что захотите, люди, занимающиеся доставкой, получают 10% и 15% на любой урожай.
 
 Предупреждающие полосы можно включать и выключать с помощью удобной кнопки.
@@ -149,10 +141,8 @@ Registro de cambios 3.0.0.0:
 История изменений 3.0.0.0:
 - Добавлена кнопка для предупреждающих полос, теперь они могут быть отключены без использования пользовательского интерфейса.
 - Добавлена поддержка некоторых модов Filltypes.
-- Добавлена поддержка MaizePlus.]]>
-        </ru>
-        <pl>
-			<![CDATA[Wielo Nadzienie Stacja.
+- Добавлена поддержка MaizePlus.]]></ru>
+        <pl><![CDATA[Wielo Nadzienie Stacja.
 Tutaj możesz kupić wszystko, co ci się podoba, a doręczyciele biorą 10%, a 15% na dowolne zbiory.
 
 Paski ostrzegawcze można włączać i wyłączać za pomocą wygodnego przycisku.
@@ -177,8 +167,7 @@ Dziennik zmian 2.5.0.0:
 Dziennik zmian 3.0.0.0:
 - Dodano przycisk pasków ostrzegawczych, które można teraz wyłączyć bez użycia interfejsu użytkownika.
 - Dodano wsparcie dla niektórych modów Filltypes.
-- Dodano obsługę MaizePlus.]]>
-        </pl>
+- Dodano obsługę MaizePlus.]]></pl>
     </description>
     <multiplayer supported="true"/>
     <storeItems>
