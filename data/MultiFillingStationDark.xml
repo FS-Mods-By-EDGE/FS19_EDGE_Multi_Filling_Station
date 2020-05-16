@@ -35,11 +35,11 @@
         </maskAreas>
     </seasons>
     <animatedObjects>
-		<animatedObject saveId="switch_01" >
+		<animatedObject saveId="switch_01">
             <animation duration="0.5">
                 <part node="2|3|1|0">
-					<keyFrame time="0.00" rotation="-51 0 0" />
-					<keyFrame time="1" rotation="90 0 0" />
+					<keyFrame time="0.0" rotation="-51 0 0"/>
+					<keyFrame time="1.0" rotation="90 0 0"/>
 				</part>
 				<part node="7">
                     <keyFrame time="0.0" visibility="false"/>
@@ -54,7 +54,7 @@
                     <keyFrame time="1.0" visibility="false"/>
                 </part>
             </animation>
-            <controls triggerNode="2|3|0" posAction="ACTIVATE_HANDTOOL" posText="action_turnOnMarking" negText="action_turnOffMarking" />
+            <controls triggerNode="2|3|0" posAction="ACTIVATE_HANDTOOL" posText="action_turnOnMarking" negText="action_turnOffMarking"/>
         </animatedObject>
     </animatedObjects>
     <tipOcclusionUpdateArea sizeX="6" sizeZ="9.5"/>
@@ -134,6 +134,9 @@
 		<fillType name="alfalfa_fermented"  priceScale="1.10"/>
     </buyingStation>
 	<triggerMarkers>
-        <triggerMarker node="7" />
+        <triggerMarker node="7|0"/>
+        <triggerMarker node="7|0"/>
+        <triggerMarker node="7|0"/>
+        <triggerMarker node="7|0"/>
     </triggerMarkers>
 </placeable>

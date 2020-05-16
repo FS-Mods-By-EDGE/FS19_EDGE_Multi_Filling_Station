@@ -3,8 +3,7 @@
     <author>EDGE Gaming / Castiga</author>
     <version>3.0.0.0</version>
     <iconFilename>icon.png</iconFilename>
-    <title>
-        <!-- en=English de=German fr=French es=Spanish ru=Russian pl=Polish it=Italian br=Brazilian-Portuguese cs=Chinese(Simplified) ct=Chinese(Traditional) cz=Czech nl=Netherlands hu=Hungary jp=Japanese kr=Korean pt=Portuguese ro=Romanian tr=Turkish -->
+    <title><!-- en=English de=German fr=French es=Spanish ru=Russian pl=Polish it=Italian br=Brazilian-Portuguese cs=Chinese(Simplified) ct=Chinese(Traditional) cz=Czech nl=Netherlands hu=Hungary jp=Japanese kr=Korean pt=Portuguese ro=Romanian tr=Turkish -->
         <en>Multi Filling Station</en>
         <de>Multi Kaufstation</de>
         <fr>Station De Remplissage Multiple</fr>
