@@ -26,7 +26,7 @@
     </clearAreas>
     <leveling requireLeveling="true" maxSmoothDistance="5" maxSlope="30" maxEdgeAngle="20">
         <levelAreas>
-            <levelArea startNode="3|0" widthNode="3|0|0" heightNode="3|0|1" groundType="asphalt"/>
+            <levelArea startNode="3|0" widthNode="3|0|0" heightNode="3|0|1"/>
         </levelAreas>
     </leveling>
     <seasons>
