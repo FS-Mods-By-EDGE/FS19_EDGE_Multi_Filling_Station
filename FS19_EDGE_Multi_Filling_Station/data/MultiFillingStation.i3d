@@ -200,7 +200,7 @@
               <Shape shapeId="2" name="loadingTrigger" translation="0 5 5.74" visibility="false" static="true" trigger="true" collisionMask="1088421888" nodeId="72" materialIds="7" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
               <TransformGroup name="dischargeNode" translation="0 5.1 5.74" nodeId="73"/>
               <TransformGroup name="dischargeEffect" translation="0 5.1 5.74" nodeId="74">
-                <Shape shapeId="3" name="pipeEffect" translation="0 -0.273836 0" scale="1.24905 1.35762 1.21798" visibility="false" clipDistance="100" nodeId="75" materialIds="6" castsShadows="true" receiveShadows="true"/>
+                <Shape shapeId="3" name="pipeEffect" translation="0 -0.273836 0" scale="1.24905 1.35762 1.21798" clipDistance="100" nodeId="75" materialIds="6" castsShadows="true" receiveShadows="true"/>
                 <Shape shapeId="4" name="pipeEffectSmoke" translation="0 -4.45118 0" visibility="false" clipDistance="100" nodeId="76" materialIds="6" castsShadows="true" receiveShadows="true"/>
               </TransformGroup>
             </TransformGroup>
