@@ -420,7 +420,7 @@ Log delle modifiche 4.0.0.0 Finale
             <pl>Ukryj znak wypełnienia</pl>
             <it>Nascondi segno di riempimento</it>
         </text>
-        <text name="action_turnOnSwitchBox">
+        <!--<text name="action_turnOnSwitchBox">
             <en>Show Switchbox</en>
             <de>Switchbox anzeigen</de>
             <fr>Afficher Switchbox</fr>
@@ -437,6 +437,24 @@ Log delle modifiche 4.0.0.0 Finale
             <ru>Скрыть переключатель</ru>
             <pl>Ukryj Switchbox</pl>
             <it>Nascondi Switchbox</it>
+        </text>-->
+        <text name="action_turnOnIcon">
+            <en>Show Trigger Icon</en>
+            <de>Triggersymbol anzeigen</de>
+            <fr>Afficher l'icône de déclenchement</fr>
+            <es>Mostrar icono de activador</es>
+            <ru>Показать значок триггера</ru>
+            <pl>Pokaż ikonę wyzwalacza</pl>
+            <it>Mostra icona trigger</it>
+        </text>
+        <text name="action_turnOffIcon">
+            <en>Hide Trigger Icon</en>
+            <de>Triggersymbol ausblenden</de>
+            <fr>Masquer l'icône du déclencheur</fr>
+            <es>Ocultar icono de activador</es>
+            <ru>Скрыть значок триггера</ru>
+            <pl>Ukryj ikonę wyzwalacza</pl>
+            <it>Nascondi icona trigger</it>
         </text>
         <text name="action_lightOn">
             <en>Switch lights on</en>
