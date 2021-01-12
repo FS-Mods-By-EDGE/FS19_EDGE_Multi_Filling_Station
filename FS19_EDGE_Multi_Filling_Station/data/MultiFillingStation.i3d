@@ -288,7 +288,7 @@
               </Shape>
             </Shape>
           </TransformGroup>
-          <Shape shapeId="20" name="sign" translation="-0.669 0.95 0.22076" rotation="5.00896e-06 5.00896e-06 0" scale="0.4 0.4 0.6" static="true" clipDistance="300" nodeId="133" materialIds="4" castsShadows="true" receiveShadows="true">
+          <Shape shapeId="20" name="sign" translation="-0.669 0.95 0.22076" rotation="5.00896e-06 5.00896e-06 0" scale="0.4 0.4 0.6" clipDistance="300" nodeId="133" materialIds="4" castsShadows="true" receiveShadows="true">
             <Shape shapeId="21" name="logo" clipDistance="300" nodeId="134" materialIds="4" castsShadows="true" receiveShadows="true"/>
           </Shape>
         </Shape>
@@ -309,13 +309,13 @@
             <Shape shapeId="28" name="logoBanner" clipDistance="300" nodeId="145" materialIds="4" castsShadows="true" receiveShadows="true"/>
           </Shape>
         </Shape>
-        <Shape shapeId="29" name="signRound" translation="0 4.80901 2.358" static="true" clipDistance="300" nodeId="146" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="29" name="signRound" translation="0 4.80901 2.358" clipDistance="300" nodeId="146" materialIds="4" castsShadows="true" receiveShadows="true">
           <Shape shapeId="30" name="logoRound" clipDistance="300" nodeId="147" materialIds="4" castsShadows="true" receiveShadows="true"/>
         </Shape>
         <Shape shapeId="31" name="industrialHatch" translation="2.318 -2.78854e-06 0" rotation="1.00179e-05 -4.37897e-13 0" clipDistance="60" nodeId="148" materialIds="11" castsShadows="true" receiveShadows="true">
           <Shape shapeId="32" name="col" visibility="false" static="true" density="0.0001" nodeId="149" materialIds="7" castsShadows="true" receiveShadows="true" nonRenderable="true"/>
         </Shape>
-        <Shape shapeId="29" name="signRound" translation="0 4.80901 -2.358" rotation="0 180 0" static="true" clipDistance="300" nodeId="150" materialIds="4" castsShadows="true" receiveShadows="true">
+        <Shape shapeId="29" name="signRound" translation="0 4.80901 -2.358" rotation="0 180 0" clipDistance="300" nodeId="150" materialIds="4" castsShadows="true" receiveShadows="true">
           <Shape shapeId="30" name="logoRound" clipDistance="300" nodeId="151" materialIds="4" castsShadows="true" receiveShadows="true"/>
         </Shape>
       </Shape>

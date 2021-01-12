@@ -45,7 +45,6 @@ Changelog 3.0.0.0:
 - Added support for MaizePlus.
 Changelog 4.0.0.0 Final:
 - New Signs, Decals & New Unload anim.
-- Added Diesel to filltypes.
 - Created new store icons and mod icon.
 - Due to some inquiries about the trigger size, we have made this bigger so its easier to find it.
 - We also added a Fillmarker witch lights up, this can be turnes on & off at the switchbox.
@@ -85,7 +84,6 @@ We also need help with translations, that can also be done there. (you will ofco
 - Unterstützung für MaizePlus hinzugefügt.
 Änderungsprotokoll 4.0.0.0 Finale:
 - Neue Schilder, Abziehbilder und neue Entladeanimation.
-- Diesel zu Füllarten hinzugefügt.
 - Neue Store-Symbole und Mod-Symbole erstellt.
 - Aufgrund einiger Anfragen zur Abzugsgröße haben wir diese vergrößert, damit sie leichter zu finden ist.
 - Wir haben auch einen Fillmarker hinzugefügt, der aufleuchtet. Dieser kann an der Schaltbox ein- und ausgeschaltet werden.
@@ -126,7 +124,6 @@ Changer le journal 3.0.0.0:
 - Ajout de la prise en charge de MaizePlus.
 Changer le journal 4.0.0.0 Finale
 - Nouveaux signes, décalcomanies et nouveau déchargement anim.
-- Ajout de Diesel aux types de remplissage.
 - Création de nouvelles icônes de magasin et icône de mod.
 - En raison de certaines questions concernant la taille du déclencheur, nous l'avons agrandie afin de la retrouver plus facilement.
 - Nous avons également ajouté une sorcière Fillmarker qui s'allume, cela peut être activé et désactivé sur le boîtier de commutation.
@@ -167,7 +164,6 @@ Registro de cambios 3.0.0.0:
 - Se agregó soporte para MaizePlus.
 Registro de cambios 4.0.0.0 Final
 - Nuevos carteles, calcomanías y nuevo anim de descarga.
-- Se agregó Diesel a los tipos de llenado.
 - Creó nuevos íconos de tienda e ícono de mod.
 - Debido a algunas consultas sobre el tamaño del disparador, lo hemos ampliado para que sea más fácil encontrarlo.
 - También agregamos una bruja Fillmarker que se enciende, esto se puede encender y apagar en la caja de interruptores.
@@ -208,7 +204,6 @@ We also need help with translations, that can also be done there. (you will ofco
 - Добавлена поддержка MaizePlus.
 История изменений 4.0.0.0 Финал
 - Новые знаки, наклейки и новая анимация выгрузки.
-- Добавлен дизель в типы заливки.
 - Созданы новые значки магазина и значок мода.
 - Из-за некоторых запросов о размере триггера мы увеличили его, чтобы его было легче найти.
 - Мы также добавили индикатор Fillmarker, который загорается, его можно включать и выключать на распределительной коробке.
@@ -249,7 +244,6 @@ Dziennik zmian 3.0.0.0:
 - Dodano obsługę MaizePlus.
 Dziennik zmian 4.0.0.0 Finał
 - Nowe znaki, naklejki i nowy anim.
-- Dodano Diesel do typów wypełnień.
 - Utworzono nowe ikony sklepu i ikonę modów.
 - Z powodu pewnych zapytań dotyczących rozmiaru spustu, zwiększyliśmy ten rozmiar, aby łatwiej było go znaleźć.
 - Dodaliśmy również zapalającą się kontrolkę Fillmarker, którą można włączać i wyłączać na skrzynce rozdzielczej.
@@ -290,7 +284,6 @@ Log delle modifiche 3.0.0.0:
 - Aggiunto il supporto per MaizePlus.
 Log delle modifiche 4.0.0.0 Finale
 - Nuovi segni, decalcomanie e nuove animazioni di scarico.
-- Aggiunto Diesel ai tipi di riempimento.
 - Create nuove icone del negozio e icona mod.
 - A causa di alcune domande sulla dimensione del trigger, l'abbiamo ingrandita in modo che sia più facile trovarla.
 - Abbiamo anche aggiunto una strega Fillmarker che si illumina, questo può essere acceso e spento dalla scatola degli interruttori.
