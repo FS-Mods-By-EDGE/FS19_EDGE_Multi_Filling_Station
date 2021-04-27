@@ -44,15 +44,15 @@ Changelog 3.0.0.0:
 - Added support for some mod Filltypes.
 - Added support for MaizePlus.
 Changelog 4.0.0.0 Final:
-- New Signs, Decals & New Unload anim.
+- New signs, decals & new unload anim.
 - Created new store icons and mod icon.
 - Due to some inquiries about the trigger size, we have made this bigger so its easier to find it.
-- We also added a Fillmarker witch lights up, this can be turnes on & off at the switchbox.
-- Added Switches for Lights ++, and added Sound to the Switches.
+- We also added a fill marker witch lights up, this can be turned on & off at the switchbox.
+- Added switches for Lights and added sound to the switches.
 - Fixed a minor issue with the light.
-- Created a Gold version of it, so now we have 3 to choose from.
-- Adjusted Leveling area.
-- Cleaned up the folder a bit, making it use less Performance on Consoles.]]></en>
+- Created a gold version of it, so now we have 3 to choose from.
+- Adjusted leveling area.
+- Cleaned up the folder a bit, making it use less performance on consoles.]]></en>
         <de><![CDATA[Multi Kaufstation. 10% Lieferkosten, 15% auf die Ernte.
 
 Warnstreifen können mit einer praktischen Taste ein- und ausgeschaltet werden.
@@ -83,15 +83,15 @@ We also need help with translations, that can also be done there. (you will ofco
 - Unterstützung für einige Mod-Fülltypen hinzugefügt.
 - Unterstützung für MaizePlus hinzugefügt.
 Änderungsprotokoll 4.0.0.0 Finale:
-- Neue Schilder, Abziehbilder und neue Entladeanimation.
-- Neue Store-Symbole und Mod-Symbole erstellt.
-- Aufgrund einiger Anfragen zur Abzugsgröße haben wir diese vergrößert, damit sie leichter zu finden ist.
+- Neue Schilder, Decals und neue Entladeanimation hinzugefügt.
+- Neue Store- und Mod-Icons erstellt.
+- Aufgrund einiger Anfragen zur Triggergröße haben wir diesen nun vergrößert, damit sie leichter zu finden ist.
 - Wir haben auch einen Fillmarker hinzugefügt, der aufleuchtet. Dieser kann an der Schaltbox ein- und ausgeschaltet werden.
-- Switches for Lights ++ hinzugefügt und Sound zu den Switches hinzugefügt.
+- Switches for Lights++ hinzugefügt und Sound zu den Switches hinzugefügt.
 - Ein kleines Problem mit dem Licht wurde behoben.
-- Erstellt eine Gold-Version davon, so dass wir jetzt 3 zur Auswahl haben.
-- Angepasster Nivellierbereich.
-- Der Ordner wurde ein wenig bereinigt, sodass weniger Leistung auf Konsolen verbraucht wird.]]></de>
+- Gold-Version davon erstellt, sodass wir jetzt 3 zur Auswahl haben.
+- Leveling-Area angepasst.
+- Der Ordner wurde ein wenig bereinigt, sodass weniger Leistung auf Konsolen nötig ist.]]></de>
         <fr><![CDATA[Station de remplissage multiple, ici, vous pouvez acheter ce que vous voulez.
 Les livreurs prennent 10% et 15% de toute récolte.
 
